@@ -1,0 +1,11 @@
+pandas
+numpy
+ccxt
+seaborn
+matplotlib
+ta
+scikit-learn
+lazypredict
+statsmodels
+optuna
+joblib
